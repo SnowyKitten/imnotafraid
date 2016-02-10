@@ -1,0 +1,35 @@
+I'm Not Afraid Walkthrough
+Facility
+-----------------------------------------------------------------
+-Talk to Gwen until the door opens.
+-Take first door on the left, avoid white circles around guards. 
+-The next door will be on the right side
+-When in the open hall, go right instead of straight, pausing in the small area to allow guard to patrol past.
+-Follow path
+-In the middle of the next guards patrol path will be a door to the right, go into the room and out the other side. Turn left after leaving the other door.
+-Run between the two patroling guards into the office.
+-Talk to Gwen and look at the safe/book to eventually open safe to get the key. Click on the door to prompt Moreau conversation.
+
+Gated Area
+---------------------------------------------------------------------------------
+-Walk through the gate
+-Follow the on screen commands, check your chat box if you miss instructions.
+
+Forest
+-------------------------------------------------------------------------------------
+-Follow the dog throughout this level.
+-Type "notafraid" for first monster
+-Type "notreal" for second monster
+-Type "goaway" for third monster
+-Type "notafraid" and "notreal" and "goaway" for the encounter in the camp.
+-Type "notreal" for next monster
+-Talk to Gwen
+
+
+Boathouse
+-----------------------------------------------------------------------------------------
+-Follow dog to boathouse
+-Click on chain
+-Go back to middle of the map to get axe from stump.
+-Go back to chain
+-Talk to Moreau at the boathouse
